@@ -1,2 +1,2 @@
 # 30-days-of-flutter
-Will share the details what I will be learning in these 30 days.
+Sharing the details of whatever I will be learning in these 30 days.
